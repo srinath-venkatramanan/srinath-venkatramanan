@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Srinath Venkatramanan
 
-🎯 A passionate **Java Backend Developer** with over **7 years of experience** building scalable telecom systems, modernizing legacy applications and optimizing backend performance.
+🎯 A passionate **Java Backend Developer** with over **8 years of experience** building scalable telecom systems, modernizing legacy applications and optimizing backend performance.
 
 🌱 Currently exploring:  
 - Spring Boot microservices with Kafka and PostgreSQL  
