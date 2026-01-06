@@ -57,7 +57,7 @@ Kafka, API Gateway, Swagger, Postman, Confluence, JIRA
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/srinathvenkatramanan/)  
 - ✉️ work@srinathvenkatramanan.in  
-- 🌐 [Personal Portfolio](https://www.srinathvenkatramanan.in/) *(coming soon)*  
+- 🌐 [Personal Portfolio](https://www.srinathvenkatramanan.in/)
 
 ---
 
